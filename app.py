@@ -1,7 +1,5 @@
 import streamlit as st 
 import csv
-from pprint import pprint
-from time import sleep as wait
 def page_1(): 
     st.title('Add New Product')
     
